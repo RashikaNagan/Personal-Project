@@ -7,3 +7,24 @@
 .navbar{
     background: cornflowerblue;
 }
+
+p{
+    color: black;
+}
+
+.dropdown-menu a{
+    color: red;
+}
+
+.dropdown-menu {
+    width: 20px;
+
+}
+
+.dropdown {
+    margin-top: 20px;
+}
+
+.carousel-indicators{
+   background-color: grey;
+}
