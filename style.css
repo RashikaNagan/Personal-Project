@@ -22,9 +22,32 @@ p{
 }
 
 .dropdown {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
-.carousel-indicators{
-   background-color: grey;
+#ppbackground{
+    position: absolute;
+    top: 20%;
+
+    border: 2px solid grey;
+    width: 800px;
+    margin-left: 10px;
+    margin-right: 10px;
+    z-index: 200; /* brings to front/ moves to back */
+    background-color: grey;
+    opacity: 60%;
+
 }
+
+.slideimg{
+    width: 80%;
+    height: 650px;
+    text-align: center;
+    margin-left: 10%;
+}
+
+#pptitle{
+    font-size: 60px;
+
+}
+
