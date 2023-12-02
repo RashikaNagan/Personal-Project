@@ -12,12 +12,9 @@ p{
     color: black;
 }
 
-.dropdown-menu a{
-    color: red;
-}
-
 .dropdown-menu {
     width: 20px;
+    background-color: brown;
 
 }
 
@@ -51,5 +48,26 @@ p{
 
 }
 
+a:link {
+    /* unvisited link */
+    color: rgb(21, 43, 244);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(255, 255, 255);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(92, 92, 92);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(255, 255, 255);
+  }
 
-
+.dropdown-item{
+    background-color: rgb(63, 63, 63);
+}
