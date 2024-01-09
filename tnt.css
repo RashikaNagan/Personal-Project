@@ -1,12 +1,12 @@
 .tnttitle {
-    font-family: 'Arial', sans-serif;
+    font-family: Segoe UI, Segoe UI Midlevel, sans-serif;
     background-color: #f8f8f8;
     color: #333;
     margin: 20px;
   }
   
 .tntcontent {
-    font-family: 'Arial', sans-serif;
+    font-family: Segoe UI, Segoe UI Midlevel, sans-serif;
     background-color: #f8f8f8;
     color: #333;
     margin: 20px;
@@ -56,78 +56,3 @@
       font-size: 14px;
     }
   }
-:root {
-    --ha-color-ff642b: #FF6428;
-    --ha-color-52548e: #52548E;
-    --ha-color-fcb316: #FCB316;
-    --ha-color-deb693: #DEB693;
-    --ha-color-45cdd8: #45CDD8;
-    --ha-color-45d878: #45D878;
-    --ha-color-f2dfce: #F2DFCE;
-    --ha-color-524834: #524834;
-    --ha-color-959595: #959595;
-    --ha-color-f8f6f2: #F8F6F2;
-    --ha-color-ededf3: #EDEDF3;
-    --ha-color-e2e2e2: #E2E2E2;
-    --ha-color-3b3b3b: #3B3B3B;
-    --ha-font-family-brandon-grotesque: "Brandon-Grotesque", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
-    --ha-font-family-proxima-soft: "Proxima-Soft", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
-    --ha-font-style-normal: normal;
-    --ha-font-weight-600: 600;
-    --ha-font-weight-900: 900;
-    --ha-font-weight-bold: bold;
-    --ha-font-weight-normal: normal;
-    --ha-font-size-8: 8px;
-    --ha-font-size-9: 9px;
-    --ha-font-size-10: 10px;
-    --ha-font-size-11: 11px;
-    --ha-font-size-12: 12px;
-    --ha-font-size-13: 13px;
-    --ha-font-size-14: 14px;
-    --ha-font-size-15: 15px;
-    --ha-font-size-16: 16px;
-    --ha-font-size-18: 18px;
-    --ha-font-size-20: 20px;
-    --ha-font-size-22: 22px;
-    --ha-font-size-24: 24px;
-    --ha-font-size-28: 28px;
-    --ha-font-size-30: 30px;
-    --ha-font-size-36: 36px;
-    --ha-font-size-48: 48px;
-    --ha-font-size-60: 60px;
-    --ha-font-size-72: 72px;
-    --ha-character-spacing-0: 0px;
-    --ha-character-spacing-0-32: 0.32px;
-    --ha-character-spacing-0-6: 0.6px;
-    --ha-character-spacing-0-7: 0.7px;
-    --ha-character-spacing-0-75: 0.75px;
-    --ha-character-spacing-0-8: 0.8px;
-    --ha-character-spacing-1: 1px;
-    --ha-character-spacing-1-2: 1.2px;
-    --ha-character-spacing-1-4: 1.4px;
-    --ha-character-spacing-1-8: 1.8px;
-    --ha-character-spacing-2: 2px;
-    --ha-line-spacing-8: 8px;
-    --ha-line-spacing-9: 9px;
-    --ha-line-spacing-10: 10px;
-    --ha-line-spacing-11: 11px;
-    --ha-line-spacing-12: 12px;
-    --ha-line-spacing-14: 14px;
-    --ha-line-spacing-16: 16px;
-    --ha-line-spacing-18: 18px;
-    --ha-line-spacing-19: 19px;
-    --ha-line-spacing-20: 20px;
-    --ha-line-spacing-22: 22px;
-    --ha-line-spacing-24: 24px;
-    --ha-line-spacing-26: 26px;
-    --ha-line-spacing-28: 28px;
-    --ha-line-spacing-30: 30px;
-    --ha-line-spacing-32: 32px;
-    --ha-line-spacing-36: 36px;
-    --ha-line-spacing-54: 54px;
-    --ha-line-spacing-55: 55px;
-    --ha-line-spacing-60: 60px;
-    --ha-line-spacing-78: 78px;
-    --ha-line-spacing-80: 80px;
-    --ha-text-transform-uppercase: uppercase;
-}
